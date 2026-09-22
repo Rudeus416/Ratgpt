@@ -1,5 +1,7 @@
 # RatGPT
 
+## open index_html to use RATGPT
+
 # English
 
 Squeak squeak, squeak squeak squeak.
