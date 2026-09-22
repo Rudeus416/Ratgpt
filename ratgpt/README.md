@@ -1,6 +1,7 @@
 # RatGPT
 
 ## open index_html to use RATGPT
+## 打开 index_html 来使用 RATGPT
 
 # English
 
